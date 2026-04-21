@@ -1,1 +1,1 @@
-This repository provides data and materials only, including the web-scraping source code and the dataset used for analysing TED Talk YouTube comments. It does not contain models configuration or any kind of analysis results.
+This repository provides data and materials only, including the web-scraping source code and the dataset used for analysing TED Talk YouTube comments. It does not contain models configuration or any kind of analysis results. scraper.ipynb and OnPublicDiscourse.csv
